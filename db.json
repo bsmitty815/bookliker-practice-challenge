@@ -9,12 +9,28 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
+          "id": "undefined",
+          "username": "undefined"
         },
         {
-          "id": 8,
-          "username": "maverick"
+          "id": 1,
+          "username": "fred"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -27,20 +43,12 @@
       "img_url": "https://books.google.com/books/content?id=GdmEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
+          "id": "undefined",
+          "username": "undefined"
         },
         {
           "id": 1,
-          "username": "pouros"
+          "username": "fred"
         }
       ]
     },
@@ -53,12 +61,12 @@
       "img_url": "https://books.google.com/books/content?id=nHlbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
+          "id": "undefined",
+          "username": "undefined"
         },
         {
-          "id": 9,
-          "username": "alex"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -88,16 +96,12 @@
       "img_url": "https://books.google.com/books/content?id=hxGuDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
+          "id": "undefined",
+          "username": "undefined"
         },
         {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -168,16 +172,12 @@
       "img_url": "http://books.google.com/books/content?id=8thMLkahggcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
+          "id": "undefined",
+          "username": "undefined"
         },
         {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
+          "id": 1,
+          "username": "fred"
         }
       ]
     },
